@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "redrabbit-calligraphy",
-    "repositoryName": "redrabbit-calligraphy-blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "uno-zen"
-  }
-}
+{"meta":{"username":"redrabbit-calligraphy","repositoryName":"redrabbit-calligraphy-blog","branch":"gh-pages","cname":"www.redrabb.it"},"site":{"url":"http://www.redrabb.it"},"socialnetwork":{},"theme":{"name":"uno-zen","url":"//redrabbit-calligraphy.github.io/redrabbit-calligraphy-blog/themes/uno-zen"}}
