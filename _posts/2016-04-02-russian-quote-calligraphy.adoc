@@ -1,4 +1,4 @@
 = Russian Calligraphy - Всем не угодишь
-:published_at: 2016-04-20
-:hp-tags: angularjs, frontend, open source
-:hp-alt-title: domainhack angularjs
+:published_at: 2016-04-02
+:hp-tags: slavic, russian, parallel pen
+:hp-alt-title: russian quote calligraphy
