@@ -1,6 +1,6 @@
 = Theosone: Calligraphy Tattoos
 :published_at: 2016-04-08
-:hp-tags: russian, tattoo
+:hp-tags: russian, tattoo, theosone
 :hp-alt-title: theosone calligraphy tattoos
 :hp-image: covers/calligraphy-tattoo-leg.jpg
 
